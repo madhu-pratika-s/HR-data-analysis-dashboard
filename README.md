@@ -16,9 +16,6 @@ The HR Headcount Analysis Dashboard is an interactive Power BI project designed 
 - How many employees work in Brazil?
 - What is the total number of employees in the Research & Development department?
 
-  ## Dashboard screenshort
-- <a href=https://github.com/madhu-pratika-s/HR-data-analysis-dashboard/blob/main/Dashboard%20pic.png">Dashboard</a>
-
 ## Process
 - Collected employee data (headcount, gender, department, country, role) from Excel/CSV.
 - Cleaned and formatted data using Power Query in Power BI.
