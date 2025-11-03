@@ -8,8 +8,6 @@ The HR Headcount Analysis Dashboard is an interactive Power BI project designed 
 ## Questions
 - How many total employees are there in the company?
 - How many male employees are there?
-- How many female employees are there?
-- What percentage of employees are male?
 - What percentage of employees are female?
 - Which business unit has the highest number of employees?
 - Which business unit has the lowest number of employees?
@@ -30,5 +28,16 @@ The HR Headcount Analysis Dashboard is an interactive Power BI project designed 
 - Tested dashboard for accuracy and interactivity.
 - Exported visuals and documented the project.
 
-  ## Screenshot
-  <img width="1279" height="727" alt="Dashboard pic" src="https://github.com/user-attachments/assets/7e6c57bb-d603-4cd5-a315-87c43b690055" />
+## Screenshot
+<img width="1279" height="727" alt="Dashboard pic" src="https://github.com/user-attachments/assets/7e6c57bb-d603-4cd5-a315-87c43b690055" />
+
+## Insights
+- Workforce is evenly balanced with 51.5% male and 48.5% female employees.
+- Headcount growth shows a steady increase from 2000 to 2025.
+- Manufacturing and R&D units have the highest number of employees.
+- USA holds the largest share of the total workforce, followed by China and Brazil.
+- Majority of employees are in Manager and Analyst roles.
+- Diversity and distribution are well-maintained across all business units
+
+## Conclusion
+- The HR Headcount Analysis Dashboard provides a clear overview of employee distribution and diversity across business units and countries. It enables HR teams to monitor workforce trends, evaluate gender balance, and make informed strategic decisions based on real-time data insights.
